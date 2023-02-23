@@ -1,5 +1,6 @@
 # task_list
 
+Solarized dark                               |  Solarized Ocean
 :-------------------------------------------:|:---------------------------------------------:
 ![](https://i.ibb.co/VN89f4L/task-list.jpg)  |  ![](https://i.ibb.co/NNHjjBg/task-list2.jpg)
 
