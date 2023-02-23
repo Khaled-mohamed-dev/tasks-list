@@ -1,7 +1,5 @@
 # task_list
 
-A new Flutter project.
-
 ## App Overview
 
 Tasks list a simple to-do list app made with flutter.
